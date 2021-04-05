@@ -1,10 +1,10 @@
 # Home Assistant Server
 
 # Step 1: Setting up Server VM
-* Install VirtualBox on Windows computer
-* ![image](https://user-images.githubusercontent.com/64232256/113613861-05bed380-960f-11eb-8c3c-36889bd66f28.png)
+* Install VirtualBox on Windows computer 
 * Download Ubuntu Server VDI
 * Set up VM
+   ![image](https://user-images.githubusercontent.com/64232256/113613861-05bed380-960f-11eb-8c3c-36889bd66f28.png)
    ![image](https://user-images.githubusercontent.com/64232256/113613926-14a58600-960f-11eb-8dd3-ecdafab14500.png)
    ![image](https://user-images.githubusercontent.com/64232256/113613957-1b33fd80-960f-11eb-9581-5ad9ffdcca6a.png)
    ![image](https://user-images.githubusercontent.com/64232256/113613987-20914800-960f-11eb-9b33-b9062495af79.png)
